@@ -1,0 +1,2 @@
+Afin d'utiliser Homebridge avec Jeedom, vous devez installer homebridge via le bouton dans la configuration.
+

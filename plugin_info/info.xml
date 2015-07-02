@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+    <id>homebridge</id>
+    <name>Homebridge</name>
+    <description>Plugin pour commander Jeedom via homebridge</description>
+    <icon>fa fa-home</icon>
+    <licence>AGPL</licence>
+    <author>Thomas MARTINEZ</author>
+    <installation>Aucune</installation>
+    <require>1.10</require>
+    <version>0.1</version>
+    <canBeAction>0</canBeAction>
+    <category>communication</category>
+</info>
+

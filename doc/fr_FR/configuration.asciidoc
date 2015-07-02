@@ -1,0 +1,7 @@
+Pour chaque nouvelle commande homebridge, il est nécessaire de définir dans Jeedom quelques éléments comme :
+. La commande d'état
+. La commande ON
+. La commande OFF
+. La commande de niveau
+
+image::../images/homebridge1.png[]

@@ -1,0 +1,20 @@
+== Homebridge
+
+=== Description
+Plugin permettant de piloter Jeedom via Homebridge.
+
+'''
+=== Installation
+include::installation.asciidoc[]
+
+'''
+=== Configuration
+include::configuration.asciidoc[]
+
+'''
+=== FAQ
+include::faq.asciidoc[]
+
+'''
+=== Changelog
+include::changelog.asciidoc[]
