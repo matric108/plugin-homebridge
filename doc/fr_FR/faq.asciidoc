@@ -1,5 +1,5 @@
 [panel,primary]
-.Quelles sont les équipements reconnus par Homebridge
+.Quels sont les équipements reconnus par Homebridge ?
 --
 Tous les équipements de type prise ou variateur
 --
