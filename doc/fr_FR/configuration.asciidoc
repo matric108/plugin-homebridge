@@ -1,4 +1,4 @@
-Pour chaque nouvelle commande homebridge, il est nécessaire de définir dans Jeedom quelques éléments comme :
+Pour chaque nouvelle commande Homebridge, il est nécessaire de définir dans Jeedom quelques éléments comme :
 . La commande d'état
 . La commande ON
 . La commande OFF
